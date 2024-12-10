@@ -11,7 +11,7 @@ const Landingpage = () => {
       name: "waffle with Berries",
       description: " waffle",
       price: "$6.50",
-      image: "/image-waffle-desktop.jpg",
+      image: "/src/assets/image-waffle-desktop.jpg",
       quantity: "1",
     },
 
@@ -80,7 +80,7 @@ const Landingpage = () => {
       name: "Vanilla Panna Cotta",
       description: "Panna Cotta",
       price: "$6.50",
-      image: "/src/assets/image-panna-cotta-desktop.jpg",
+      image: "/image-panna-cotta-desktop.jpg",
       quantity: "1",
     },
   ];
