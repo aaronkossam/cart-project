@@ -11,7 +11,7 @@ const Landingpage = () => {
       name: "waffle with Berries",
       description: " waffle",
       price: "$6.50",
-      image: "/src/assets/image-waffle-desktop.jpg",
+      image: "/public/images/image-waffle-desktop.jpg",
       quantity: "1",
     },
 
@@ -20,7 +20,7 @@ const Landingpage = () => {
       name: "vanilla Bean creme Brulee",
       description: " creme Brulee",
       price: "$7.50",
-      image: "/src/assets/image-creme-brulee-desktop.jpg",
+      image: "/public/images/image-creme-brulee-desktop.jpg",
       quantity: "1",
     },
     {
@@ -28,7 +28,7 @@ const Landingpage = () => {
       name: "macaron Mix of five ",
       description: " macaron",
       price: "$8.00",
-      image: "/src/assets/image-macaron-desktop.jpg",
+      image: "/public/images/image-macaron-desktop.jpg",
       quantity: "1",
     },
 
@@ -37,7 +37,7 @@ const Landingpage = () => {
       name: "classic Tiramisu",
       description: " Tiramisu",
       price: "$5.50",
-      image: "/src/assets/image-tiramisu-desktop.jpg",
+      image: "/public/images/image-tiramisu-desktop.jpg",
       quantity: "1",
     },
     {
@@ -45,7 +45,7 @@ const Landingpage = () => {
       name: "pitacho baklava",
       description: " baklava",
       price: "$4.00",
-      image: "/src/assets/image-baklava-desktop.jpg",
+      image: "/public/images/image-baklava-desktop.jpg",
       quantity: "1",
     },
 
@@ -54,7 +54,7 @@ const Landingpage = () => {
       name: "Lemon Meringue Pie",
       description: " Meringue Pie",
       price: "$5.00",
-      image: "/src/assets/image-meringue-desktop.jpg",
+      image: "/public/images/image-meringue-desktop.jpg",
       quantity: "1",
     },
     {
@@ -62,7 +62,7 @@ const Landingpage = () => {
       name: "Red velvet cake",
       description: "cake",
       price: "$4.50",
-      image: "/src/assets/image-cake-desktop.jpg",
+      image: "/public/images/image-cake-desktop.jpg",
       quantity: "1",
     },
 
@@ -71,7 +71,7 @@ const Landingpage = () => {
       name: "salted caramel ",
       description: "Brownie",
       price: "$5.50",
-      image: "/src/assets/image-brownie-desktop.jpg",
+      image: "/public/images/image-brownie-desktop.jpg",
       quantity: "1",
     },
 
@@ -80,7 +80,7 @@ const Landingpage = () => {
       name: "Vanilla Panna Cotta",
       description: "Panna Cotta",
       price: "$6.50",
-      image: "/image-panna-cotta-desktop.jpg",
+      image: "/public/images/image-panna-cotta-desktop.jpg",
       quantity: "1",
     },
   ];

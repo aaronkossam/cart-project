@@ -47,7 +47,7 @@ const Fooditem = ({ id, name, description, image, price }) => {
                       price,
                     })
                   }
-                  src="/src/assets/icon-increment-quantity.svg"
+                  src="/public/images/icon-increment-quantity.svg"
                   alt=""
                 />
 
@@ -63,7 +63,7 @@ const Fooditem = ({ id, name, description, image, price }) => {
                     })
                   }
                   // onClick={() => Removefromcart(name)}
-                  src="/src/assets/icon-decrement-quantity.svg"
+                  src="/public/images/icon-decrement-quantity.svg"
                   alt=""
                 />
               </div>
