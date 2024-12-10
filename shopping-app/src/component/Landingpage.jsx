@@ -11,7 +11,7 @@ const Landingpage = () => {
       name: "waffle with Berries",
       description: " waffle",
       price: "$6.50",
-      image: "/src/assets/image-waffle-desktop.jpg",
+      image: "/assets/image-waffle-desktop.jpg",
       quantity: "1",
     },
 
